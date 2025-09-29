@@ -1,5 +1,5 @@
 # VisualDroid
-The code for the paper entitled "VisualDroid: Improving the Accessibility of GUI Visual Changes using Large Language Models"
+The code for the paper entitled "Towards Testing the Accessibility of Dynamic Visual Changes in Android Mobile GUIs with Multi-Modal LLMs"
 
 # Introduction
 In this work, we designed and implemented a method, named $VisualDroid$, capable of testing and improving the accessibility of GUI visual changes. 
